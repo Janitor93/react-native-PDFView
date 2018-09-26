@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.pdf.reactlibrary;
 
 /**
  * Copyright (c) <2018> <Maksym Rusynyk>

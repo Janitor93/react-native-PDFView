@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.pdf.reactlibrary;
 
 /**
  * Created by Maksym Rusynyk on 06/03/2018.
